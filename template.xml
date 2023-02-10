@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+  <head>
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" type="text/css" href="https://unpkg.com/@picocss/pico@1.*/css/pico.min.css"></link>
+  </head>
+  <menu>
+    <nav xmlns="http://www.w3.org/1999/xhtml">
+      <ul>
+        <li>
+          <a href="index.xml">Home</a>
+        </li>
+        <li>
+          <a href="feature-01.xml">Feature 1</a>
+        </li>
+        <li>
+          <a href="feature-02.xml">Feature 2</a>
+        </li>
+        <li>
+          <a href="feature-03.xml">Feature 3</a>
+        </li>
+        <li>
+          <a href="feature-04.xml">Feature 4</a>
+        </li>
+      </ul>
+    </nav>
+  </menu>
+</template>
