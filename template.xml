@@ -10,16 +10,16 @@
           <a href="index.xml">Home</a>
         </li>
         <li>
-          <a href="feature-01.xml">Feature 1</a>
+          <a href="feature-01.xml">Overview</a>
         </li>
         <li>
-          <a href="feature-02.xml">Feature 2</a>
+          <a href="feature-02.xml">Statistics</a>
         </li>
         <li>
-          <a href="feature-03.xml">Feature 3</a>
+          <a href="feature-03.xml">Export</a>
         </li>
         <li>
-          <a href="feature-04.xml">Feature 4</a>
+          <a href="feature-04.xml">PDF</a>
         </li>
       </ul>
     </nav>
