@@ -7,12 +7,13 @@
     <xsl:template match="feature">
         <html>
             <head>
-                <title>Feature #04</title>
+                <title>Export Statistics as PDF</title>
                 <xsl:copy-of select="document('../template.xml')/template/head/*"/>
             </head>
             <body>
                 <xsl:copy-of select="document('../template.xml')/template/menu/*"/>
-                <h1>Feature #04</h1>
+                <h1>Export Statistics as PDF</h1>
+                
                 
 
             </body>
